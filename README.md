@@ -4,7 +4,7 @@
 
 
 # Blockchain-For-EHR-Management-Medishield
-A decentralized system for managing electronic health records using blockchain and IPFS.
+A decentralized system for managing electronic role based health records using blockchain and IPFS.
 
 
 ## Introduction
@@ -117,7 +117,13 @@ var agentContractAddress = "0x75E115394aacC7c6063E593B9292CB9417E4cbeC";
 
 #### 2. Start a local server
 
-- Open a new terminal window and navigate to `/YOUR_PROJECT_DIRECTORY/app/`.
+- Open a new terminal window and navigate to `/YOUR_PROJECT_DIRECTORY/src/`.
 - Run `npm start`.
 - Open `localhost:3000` on your browser.
 - That's it! The dApp is up and running locally.
+
+#### 3. Watch the demo video for running this program
+
+- open media folder
+- watch the demo video you will get an idea.
+
